@@ -45,3 +45,4 @@ You can use variant size (small, default, large, and full size). Just add class 
 		<div class="modal-content">
 			....
 ```
+[View Demo](http://galssmodal.gapraart.com/)
