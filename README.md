@@ -41,7 +41,7 @@ HTML used:
 You can use variant size (small, default, large, and full size). Just add class small/large/fullsize on modal-block tag.
 ```sh
 <div id="yourmodalID" class="galss-modal">
-	<div class="modal-block">
+	<div class="modal-block large"> <-- class size
 		<div class="modal-content">
 			....
 ```
